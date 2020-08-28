@@ -11,13 +11,16 @@ Default location:
 
 Mongod is the mongodb service
 
+```html
 sudo mongod
-
+```
 default ip is:
 localhost:27017
 
 ## Install Robo3T DB GUI
 https://robomongo.org/download
 
+```html
 cd /Downloads
 tar -xzf foldername.tar.gz
+```
