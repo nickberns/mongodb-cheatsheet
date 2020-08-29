@@ -9,7 +9,7 @@ Default location:
 
 ## Spin up server
 
-Mongod is the mongodb service
+Mongod is the mongodb daemon service
 
 ```html
 sudo mongod
@@ -34,5 +34,6 @@ https://mongodb.github.io/node-mongodb-native/3.1/api/
 https://docs.mongodb.com/manual/reference/operator/update/
 
 ## Setup Mongoose ODM
+https://www.npmjs.com/package/mongoose
 https://mongoosejs.com/
 
