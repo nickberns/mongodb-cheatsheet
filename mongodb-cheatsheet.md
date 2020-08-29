@@ -33,3 +33,6 @@ https://mongodb.github.io/node-mongodb-native/3.1/api/
 ## Mondgo DB update operators
 https://docs.mongodb.com/manual/reference/operator/update/
 
+## Setup Mongoose ODM
+https://mongoosejs.com/
+
