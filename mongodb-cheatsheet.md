@@ -26,3 +26,10 @@ tar -xzf foldername.tar.gz
 ```
 ## Grab Mongodb Nodejs driver
 https://www.npmjs.com/package/mongodb
+
+## Mongodb Nodejs driver API docs
+https://mongodb.github.io/node-mongodb-native/3.1/api/
+
+## Mondgo DB update operators
+https://docs.mongodb.com/manual/reference/operator/update/
+
