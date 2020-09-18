@@ -1,4 +1,4 @@
-## Install MongoDB server
+## Install the MongoDB server
 
 https://docs.mongodb.com/guides/server/install/
 
