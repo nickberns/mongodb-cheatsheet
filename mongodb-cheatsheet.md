@@ -4,7 +4,7 @@ https://docs.mongodb.com/guides/server/install/
 
 ## Check local storage is ready
 
-Default location for db data:
+Default location for db data :
 ~/data/db
 
 ## Spin up server
